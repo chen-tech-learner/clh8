@@ -2,9 +2,9 @@
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/dd/h",
     "lives": [
         {
-            "name": "咪咕央视",
+            "name": "央视",
             "type": 0,
-            "url": "http://xiang.hyperphp.com/migu.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
             "ua": "Mozilla/5.0 (Android; TV; rv:98.0) Gecko/98.0 Firefox/98.0"
         },
         {
