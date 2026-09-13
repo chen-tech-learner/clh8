@@ -4,7 +4,19 @@
         {
             "name": "📺央视卫视",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/dd/yw.m3u/dd/yw.m3u",
+            "url": "http://xiang.hyperphp.com/migu.txt",
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "Easy直播",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "甜心直播",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/tx.txt",
             "ua": "okhttp/3.15"
         }
     ],
