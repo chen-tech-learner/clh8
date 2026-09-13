@@ -2,22 +2,22 @@
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/cfg-backup/main/dd/h",
     "lives": [
         {
-            "name": "📺央视卫视",
+            "name": "咪咕央视",
             "type": 0,
             "url": "http://xiang.hyperphp.com/migu.txt",
-            "ua": "okhttp/3.15"
+            "ua": "Mozilla/5.0 (Android; TV; rv:98.0) Gecko/98.0 Firefox/98.0"
         },
         {
             "name": "Easy直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
-            "ua": "okhttp/3.15"
+            "ua": "Mozilla/5.0 (Android; TV; rv:98.0) Gecko/98.0 Firefox/98.0"
         },
         {
             "name": "甜心直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/tx.txt",
-            "ua": "okhttp/3.15"
+            "ua": "Mozilla/5.0 (Android; TV; rv:98.0) Gecko/98.0 Firefox/98.0"
         }
     ],
     "sites": [
